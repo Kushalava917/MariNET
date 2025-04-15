@@ -1,15 +1,15 @@
-# MarineVision-CBAMNet
+# MarineVision-CBANet
 
 ## Description
-MarineVision-CBAMNet is a deep learning project for classifying marine life species using a convolutional neural network. It leverages the EfficientNetB3 model enhanced with a Convolutional Block Attention Module (CBAM) to achieve high accuracy in identifying marine species from images. The project uses TensorFlow and is designed to work with the Marine Life Classification Dataset.
+MariNet is a deep learning project for classifying marine life species using a convolutional neural network. It leverages the EfficientNetB3 model enhanced with a Convolutional Block Attention Module (CBAM) to achieve high accuracy in identifying marine species from images. The project uses TensorFlow and is designed to work with the Marine Life Classification Dataset.
 
 ## Installation
 To set up the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd MarineVision-CBAMNet
+   git clone [<repository-url>](https://github.com/Kushalava917/MariNET.git)
+   cd MariNet
    ```
 
 2. **Install Python dependencies**:
@@ -108,4 +108,4 @@ Contributions are welcome! To contribute:
 Please ensure your code follows PEP 8 style guidelines and includes relevant tests.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [[LICENSE](LICENSE)](https://github.com/Kushalava917/MariNET/blob/df6f610fdaa9a73d9c90c0ded6f8c60512df952a/LICENSE) file for details.
