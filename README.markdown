@@ -8,7 +8,7 @@ To set up the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone [<repository-url>](https://github.com/Kushalava917/MariNET.git)
+   git clone https://github.com/Kushalava917/MariNET.git
    cd MariNet
    ```
 
